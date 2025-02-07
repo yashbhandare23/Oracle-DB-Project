@@ -1,4 +1,4 @@
-# Oracle-DB-Project
+# OracleDB-SQL-Project
 
 Table related Queries:
 - Create
